@@ -1,8 +1,5 @@
 # Reza Manzour
 
-M.Sc. student in Computer Science (Artificial Intelligence)  
-B.Sc. in Industrial Engineering
+M.Sc. student in Computer Science (Artificial Intelligence), with a B.Sc. in Industrial Engineering.
 
-**Areas of interest:** AI engineering, LLM applications, agentic systems, machine learning and deep learning, and operations research.
-
-**Tools:** Python · PyTorch · scikit-learn · LangGraph · FastAPI · Docker
+My project work includes machine learning, deep learning, and generative AI. I’m currently focused on AI engineering and agentic systems, with an interest in optimization and operations research.
